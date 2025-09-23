@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h3 align="left">I enjoy mentoring and helping other developers grow, one step at a time, and imporving myself</h3>
 
 
-<h2 align="left">🙋‍♂️ About Me </h2>
+<h2 align="left">About Me</h2>
 
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 
