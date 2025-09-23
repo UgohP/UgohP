@@ -1,11 +1,3 @@
-## Hi there 👋
-## I'm Paschal Ugoh
-
-A Software Engineer passionate about **building scalable, high-performance web applications**.
-
-I enjoy **mentoring and helping other developers grow**, one step at a time, while improving myself.
-
-
 <!--
 **UgohP/UgohP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="left">Hi there 👋/h1>
+<h1 align="left">Hi there 👋</h1>
 <h1 align="left">I'm Paschal Ugoh</h1>
 <h3 align="left">A Software Engineer passionate about building scalable, high-performance web applications</h3>
 <h3 align="left">I enjoy mentoring and helping other developers grow, one step at a time, and imporving myself</h3>
