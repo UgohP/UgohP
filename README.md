@@ -23,8 +23,6 @@ Here are some ideas to get you started:
 
 <h2 align="left">About Me</h2>
 
-<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
-
 - 📚 **Learning:** Exploring best practices in software engineering, backend architectures, and modern web technologies.
 
 - 🛠 **Tech Community Builder:** Founder of **1% Coding Hour**, a fast-growing global community helping developers build consistency and improve daily.
@@ -42,6 +40,9 @@ Here are some ideas to get you started:
 ---
 
 <h2 align="left">Tech Stacks and Tools:</h2>
+
+<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
+
 
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
