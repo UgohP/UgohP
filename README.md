@@ -19,6 +19,9 @@ Here are some ideas to get you started:
 <h3 align="left">A Backend-Focused Software Engineer passionate about building scalable, high-performance web applications.</h3>
 <h3 align="left">I enjoy mentoring developers, helping them grow consistently, and improving myself every day.</h3>
 
+
+<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
+
 <h2 align="left">About Me</h2>
 
 - 📚 **Learning:** Exploring best practices in software engineering, backend architectures, and modern web technologies.
@@ -36,8 +39,6 @@ Here are some ideas to get you started:
 - ⚡ **Fun Fact:** I love solving challenging problems and creating practical solutions.
 
 ---
-
-<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 
 <h2 align="left">Tech Stacks and Tools:</h2>
 
@@ -60,9 +61,10 @@ Here are some ideas to get you started:
 
 ---
 
+## 📊 GitHub Stats
+
 <div style="justify-content: space-between; margin: 10px; gap: 8px; display: flex;">
 
-## 📊 GitHub Stats
 
   <img style="flex: 1 1 0; width: 48%; height: 195px;" 
        src="https://github-readme-stats.vercel.app/api?username=UgohP&show_icons=true&hide_border=false&show_owner=true&title_color=ff6e96&theme=dark&background=000000&layout=compact" alt="UgohP"/>
