@@ -63,9 +63,11 @@ Here are some ideas to get you started:
 
 ---
 
-## 📊 GitHub Stats
 
 <div style="justify-content: space-between; margin: 10px; gap: 8px; display: flex;">
+
+## 📊 GitHub Stats
+
   <img style="flex: 1 1 0; width: 48%; height: 195px;" 
        src="https://github-readme-stats.vercel.app/api?username=UgohP&show_icons=true&hide_border=false&show_owner=true&title_color=ff6e96&theme=dark&background=000000&layout=compact" alt="UgohP"/>
   <img style="flex: 1 1 0; width: 48%; height: 195px;" 
