@@ -20,9 +20,10 @@ Here are some ideas to get you started:
 <h3 align="left">I enjoy mentoring developers, helping them grow consistently, and improving myself every day.</h3>
 
 
-<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 
 <h2 align="left">About Me</h2>
+
+<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 
 - 📚 **Learning:** Exploring best practices in software engineering, backend architectures, and modern web technologies.
 
