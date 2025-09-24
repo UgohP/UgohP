@@ -37,11 +37,9 @@ Here are some ideas to get you started:
 
 ---
 
-<h2 align="left">Tech Stacks and Tools:</h2>
-
-<div style="justify-content: space-between; margin: 10px; gap: 8px; display: flex;">
-
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
+
+<h2 align="left">Tech Stacks and Tools:</h2>
 
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
@@ -59,10 +57,8 @@ Here are some ideas to get you started:
 <a href="https://www.postman.com/" title="Postman" target="_blank"><img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" alt="postman" width="40" height="40"/></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
 </p>
-</div>
 
 ---
-
 
 <div style="justify-content: space-between; margin: 10px; gap: 8px; display: flex;">
 
