@@ -1,77 +1,89 @@
-<!--
-**UgohP/UgohP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hey there, I’m Pasky (Paschal Ugoh)
 
-Here are some ideas to get you started:
+### 🚀 Software Engineer | 🧠 Instructor | 💡 Builder of Scalable Web Solutions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m **Paschal Ugoh**, but most people call me **Pasky** — a passionate **Software Engineer & Instructor** who loves turning ideas into real, production-ready code.  
 
-<h1 align="left">Hello there 👋</h1>
-<h1 align="left">I'm Paschal Ugoh</h1>
+I specialize in **Python (Django)** and **JavaScript (Node.js & React)**, crafting full-stack applications that are fast, functional, and scalable.  
+Beyond building, I enjoy **teaching and mentoring** — helping developers grow into confident, capable builders.
 
-<h3 align="left">A Backend-Focused Software Engineer passionate about building scalable, high-performance web applications.</h3>
-<h3 align="left">I enjoy mentoring developers, helping them grow consistently, and improving myself every day.</h3>
-
-
-
-<h2 align="left">About Me</h2>
-
-- 📚 **Learning:** Exploring best practices in software engineering, backend architectures, and modern web technologies.
-
-- 🛠 **Tech Community Builder:** Founder of **1% Coding Hour**, a fast-growing global community helping developers build consistency and improve daily.
-
-- 🌟 **Mentorship:** Actively guiding beginner and intermediate developers through one-on-one sessions, code reviews, and project support.
-
-- 🤝 **Collaboration:** Excited to collaborate on innovative backend or full-stack solutions.
-
-- 🔍 **Availability:** Open to mentorship, collaboration, and Backend/Fullstack Engineering opportunities.
-
-- 📝 **Writing:** I regularly share insights and articles on <a href="https://www.linkedin.com/in/ugohpaschal/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a> <a href="https://x.com/pasky_u"><img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white" /></a>
-
-- ⚡ **Fun Fact:** I love solving challenging problems and creating practical solutions.
+> “Code isn’t just what I do. It’s how I create impact.”
 
 ---
 
-<h2 align="left">Tech Stacks and Tools:</h2>
+## 🛠️ Tech Stack
 
-<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
+### 💻 Languages, Frameworks & Tools
 
-
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
-<a href="https://www.javascript.com/" title="JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" width="40" height="40"/></a>
-<a href="https://nodejs.org/" title="Node.js" target="_blank"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node" width="40" height="40"/></a>
-<a href="https://www.typescriptlang.org/" title="TypeScript" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/1200px-Microsoft_.NET_logo.svg.png" alt="csharp" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" width="40" height="40"/></a>
-<a href="https://www.docker.com/" title="Docker" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker" width="40" height="40"/></a>
-<a href="https://kubernetes.io/" title="Kubernetes" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/kubernetes/kubernetes.png" alt="kubernetes" width="40" height="40"/></a>
-<a href="https://www.postman.com/" title="Postman" target="_blank"><img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" alt="postman" width="40" height="40"/></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 💡 About Me
 
-<div style="justify-content: space-between; margin: 10px; gap: 8px; display: flex;">
-
-
-  <img style="flex: 1 1 0; width: 48%; height: 195px;" 
-       src="https://github-readme-stats.vercel.app/api?username=UgohP&show_icons=true&hide_border=false&show_owner=true&title_color=ff6e96&theme=dark&background=000000&layout=compact" alt="UgohP"/>
-  <img style="flex: 1 1 0; width: 48%; height: 195px;" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=UgohP&theme=dark&background=000000&hide_border=false&layout=compact">
-</div>
+- 🧑‍💻 I build **modern, full-stack web applications** that solve real-world problems.  
+- 🏗️ I enjoy **designing scalable architectures** and writing clean, maintainable code.  
+- 🧭 I teach and mentor aspiring developers — helping them grow into confident problem-solvers.  
+- ⚙️ I’m big on **microservices**, **RESTful APIs**, and **AI-powered applications**.  
+- 🌍 I love collaborating on projects that make technology more human and accessible.  
 
 ---
+
+## 🚧 Featured Projects
+
+### 🛒 [**Shop2Stop**](https://github.com/UgohP/shop2stop)
+A modern e-commerce platform built with **React**, **Node.js**, and **MongoDB** — featuring secure payments, order tracking, and an admin dashboard.
+
+### 🎓 [**EduTrack**](https://github.com/UgohP/edutrack)
+A course management system for teachers and students, built with **Django** and **Next.js**, designed for smart learning and easy progress tracking.
+
+### 🧾 [**Bluemartin**](https://github.com/UgohP/bluemartin)
+A dynamic, full-scale website built with **Django** and **MySQL**, offering over **1,000 user interfaces** and deployed on Whogohost.
+
+### ✅ [**TaskBuddy**](https://github.com/UgohP/taskbuddy)
+A simple, productive task manager built with **Next.js**, featuring **sound effects**, **task history**, and **completion tracking**.
+
+---
+
+## 🔭 Currently Working On
+
+- Building **Learnify**, an AI-powered school platform that helps students learn independently.  
+- Exploring **AI integration** into learning and productivity apps.  
+- Mentoring backend students in full-stack web development.  
+
+---
+
+## 🌱 Currently Learning
+
+- Microservices architecture with **FastAPI**  
+- Cloud deployment on **AWS** and **Docker containers**  
+- AI-driven assistants for web applications  
+
+---
+
+## 🤝 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UgohP)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/paschalugoh)
+[![Twitter](https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/pasky_codes)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1E40AF?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-pasky.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pasky.dev@gmail.com)
+
+---
+
+## ⚡ Fun Fact
+When I’m not coding or teaching, I’m probably brainstorming startup ideas or helping someone debug theirs 😅  
+
+---
+
+⭐ **“Turning ideas into code, and code into impact.”**  
+— *Pasky (Paschal Ugoh)*
