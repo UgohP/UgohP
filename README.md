@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="left">Hello there 👋</h1>
 <h1 align="left">I'm Paschal Ugoh</h1>
 
-<h3 align="left">A Backend-Focused Software Engineer passionate about building scalable, high-performance web applications.</h3>
+<h3 align="left">A Software Engineer passionate about building scalable, high-performance web applications.</h3>
 <h3 align="left">I enjoy mentoring developers, helping them grow consistently, and improving myself every day.</h3>
 
 
